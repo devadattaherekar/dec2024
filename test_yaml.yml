@@ -1,0 +1,13 @@
+---
+myinfo:
+  Address:
+    City: Pune
+    State: Maharashtra
+  Firstname: satish
+  Lastname: sagwekar
+  Age: 32
+  Technologies:
+    skills:
+    - azure
+    - gcp
+    - aws

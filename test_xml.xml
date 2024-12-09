@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <root>
+     <myinfo>
+         <Address>
+             <City>Pune</City>
+             <State>Maharashtra</State>
+         </Address>
+         <Firstname>satish</Firstname>
+         <Lastname>sagwekar</Lastname>
+         <Age>32</Age>
+         <Technologies>
+             <skills>azure</skills>
+             <skills>gcp</skills>
+             <skills>aws</skills>
+         </Technologies>
+     </myinfo>
+ </root>
